@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(7)\ПР9(7)\bin\Debug\ПР9(7).exe.config
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(7)\ПР9(7)\bin\Debug\ПР9(7).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(7)\ПР9(7)\bin\Debug\ПР9(7).pdb
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(7)\ПР9(7)\obj\Debug\ПР9(7).csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(7)\ПР9(7)\obj\Debug\ПР9(7).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(7)\ПР9(7)\obj\Debug\ПР9(7).pdb
