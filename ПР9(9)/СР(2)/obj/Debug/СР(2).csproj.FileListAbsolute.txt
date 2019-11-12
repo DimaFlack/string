@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР(2)\СР(2)\bin\Debug\СР(2).exe.config
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР(2)\СР(2)\bin\Debug\СР(2).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР(2)\СР(2)\bin\Debug\СР(2).pdb
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР(2)\СР(2)\obj\Debug\СР(2).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР(2)\СР(2)\obj\Debug\СР(2).pdb
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(9)\СР(2)\bin\Debug\СР(2).exe.config
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(9)\СР(2)\obj\Debug\СР(2).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(9)\СР(2)\obj\Debug\СР(2).pdb
