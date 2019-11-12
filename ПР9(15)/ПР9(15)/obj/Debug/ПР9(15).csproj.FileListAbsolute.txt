@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(15)\ПР9(15)\bin\Debug\ПР9(15).exe.config
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(15)\ПР9(15)\bin\Debug\ПР9(15).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(15)\ПР9(15)\bin\Debug\ПР9(15).pdb
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(15)\ПР9(15)\obj\Debug\ПР9(15).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(15)\ПР9(15)\obj\Debug\ПР9(15).pdb
