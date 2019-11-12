@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(11)\СР9(11)\bin\Debug\СР9(11).exe.config
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(11)\СР9(11)\bin\Debug\СР9(11).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(11)\СР9(11)\bin\Debug\СР9(11).pdb
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(11)\СР9(11)\obj\Debug\СР9(11).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(11)\СР9(11)\obj\Debug\СР9(11).pdb
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(11)\СР9(11)\bin\Debug\СР9(11).exe.config
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(11)\СР9(11)\obj\Debug\СР9(11).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\ПР9(11)\СР9(11)\obj\Debug\СР9(11).pdb
