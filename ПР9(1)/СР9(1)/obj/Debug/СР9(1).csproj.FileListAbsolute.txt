@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(1)\СР9(1)\bin\Debug\СР9(1).exe.config
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(1)\СР9(1)\obj\Debug\СР9(1).csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(1)\СР9(1)\bin\Debug\СР9(1).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(1)\СР9(1)\bin\Debug\СР9(1).pdb
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(1)\СР9(1)\obj\Debug\СР9(1).exe
+C:\Users\student\Desktop\Ризельян Дмитрий\ОАиП\СР9(1)\СР9(1)\obj\Debug\СР9(1).pdb
